@@ -1,2 +1,2 @@
 "This is some content for the new file." 
-"Adding more content"
+"Adding more content""Feature-specific changes" 
