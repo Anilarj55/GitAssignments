@@ -1,3 +1,3 @@
 "This is some content for the new file." 
 "Adding more content""Feature-specific changes" 
-"For new content"
+"For revert content"
